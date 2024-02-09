@@ -51,6 +51,6 @@
     [490.234, 485.123],
     [500.789, 495.987]
   ],
-  "num_iterations": 10000,
+  "num_iterations": 1000,
   "tabu_length": 50
 }
